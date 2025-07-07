@@ -1,0 +1,5 @@
+git add .
+git commit -m "깃 허브 명령어 추가"
+git push
+
+git pull origin main
